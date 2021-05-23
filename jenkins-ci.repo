@@ -1,0 +1,5 @@
+[jenkins-ci]
+baseurl = http://pkg.jenkins.io/redhat
+gpgcheck = 1
+gpgkey = https://pkg.jenkins.io/redhat/jenkins.io.key
+name = jenkins-ci package repository
